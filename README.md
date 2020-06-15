@@ -2,7 +2,7 @@
 
 # [Project 1 - An Airbnb Application](https://github.com/yong9lum/Airbnb_Project)
 
-This is the very first data science project that I attempted, with some basic Python programming knowledge.
+This is the very first data science project that I attempted with some basic Python programming knowledge, as part of a submission for Hackwagon Academy's DS101 course.
 
 In this project, I used questions to guide my exploration on of the dataset to pick up on any trends or insights on the different neighborhoods, the pricing, as well as the satisfaction levels based on reviews.
 
