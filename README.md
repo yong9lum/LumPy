@@ -1,6 +1,6 @@
 # Turning Data into Actionable Insights
 
-# Airbnb Project
+# [Project 1 - An Airbnb Application](https://github.com/yong9lum/Airbnb_Project)
 
 This is the very first data science project that I attempted, with some basic Python programming knowledge.
 
