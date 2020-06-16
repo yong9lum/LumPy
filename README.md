@@ -1,4 +1,4 @@
-# Turning Data into Actionable Insights
+# Turning Data into Insights
 
 
 # [Project 2 - A Solution for IBM's HR Headache](https://github.com/yong9lum/IBM_Project)
