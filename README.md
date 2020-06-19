@@ -1,6 +1,13 @@
 # Turning Data into Insights
 
 
+### [Project 3 - Using Data Analytics in E-commerce](https://github.com/yong9lum/E-commerce_Project)
+
+A hypothetical e-commerce company 'X' serves as a third-party retailer, bridging online shoppers with sellers. It also has its own production line of goods, & has a physical brick & mortar store in Singapore selling some of their own products. It is vital for 'X' to be ahead of customers’ buying patterns & current trends, due to strong competition from other e-commerce companies with similarly competitive pricing & strong marketing.
+
+I leveraged on the data to recommend a loyalty program, to tier customers so that they can be rewarded gradually for spending more. I also created a forecasting model that the supply chain department can better manage the available inventory space & ensure that a future increase/decrease in demand can be accounted for. Lastly, I programmed a command line user interface that will allow easy summary pull outs of past data & generate future demands, serving as a user interface that all employees can access.
+
+
 ### [Project 2 - A Solution for IBM's HR Headache](https://github.com/yong9lum/IBM_Project)
 
 A HR department receives thousands of resumes on a daily basis & evaluates them manually to shortlist candidates for a first-round interview. This is done by assessing if candidates have the right skills & experience, as well as the key qualities & traits required for a position. These various processes are currently very labor-intensive & hence, there is room to improve the effectiveness of current processes given the high turnover for certain roles such as sales. Also, it is difficult to accurately predict the potential fit and future conduct of the candidate. HR is thus seeking for ways to better support its HR team to make the recruitment process more effective with improved accuracy in the matching process.
