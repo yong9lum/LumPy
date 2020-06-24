@@ -1,5 +1,11 @@
 # Turning Data into Insights
 
+### [Project 4 - Crime Prevention with Data](https://github.com/yong9lum/SanFrancisco_Crime_Project)
+
+With a crime rate of 64 per one thousand residents, San Francisco has one of the highest crime rates in America compared to other communities of various sizes — from the smallest towns to the very largest cities. One's chance of becoming a victim of either violent or property crime in San Francisco is 1-in-16, & within California alone, more than 99% of the communities have a lower crime rate. A victim of crime may experience different kinds of effects, including physical effects like injuries, psychological effects like anger & Post-Traumatic Stress Disorder (PTSD), & economic effects like paying for medical expenses & time-off from work. The implications of crime go beyond individuals and affect communities as a whole. In San Francisco, property & low-level crimes are aggravating the destruction of the retail market. With rampant theft & lack of security, landmark Mission District stores are closing, while mom-&-pop businesses find it hard to survive when wracked by constant thefts. The high crime rates & lack of security has also resulted in San Francisco being labelled as a non-viable market, discouraging new businesses from setting up due to fear. Against high crime rates, every individual, family, community, and organization is a victim.
+
+I used San Francisco's historical crime dataset to run data analytics visualisations using Tableau & machine learning models like XGBoost, CART & Logistic Regression to get a better overview of the crime situation, & come up with predictive & preventive solutions for those problems. The most important outcomes I want to achieve in this project are improving manpower allocation & scheduling, using police patrols as preventive measures & giving priority to crimes that are more 'solvable', as well as bringing focus to juvenile crimes (be it perpetrators or victims).
+
 
 ### [Project 3 - Using Data Analytics in E-commerce](https://github.com/yong9lum/E-commerce_Project)
 
