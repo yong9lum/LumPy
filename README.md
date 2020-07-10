@@ -1,5 +1,12 @@
 # Turning Data into Insights
 
+### [Project 5 - Machine Learning from Disaster](https://github.com/yong9lum/Titanic_Project)
+
+The legendary Titanic machine learning competition on Kaggle is one of the best challenges for someone who is just picking up on predictive programming to practise his skills. In this challenge, I tried to predict whether or not a person on the Titanic back in 1912 was likely to survive the crash, based on the given variables in the dataset, along with new engineered features. I used five machine learning techniques (Logistic Regression, Support Vector Machines, Multilayer Perceptron, Random Forest, Gradient Boosting) to create base models.
+
+As part of my own learning, I further ensembled these five models using XGBoost in an attempt to produce a model with greater accuracy, but found that this model did not outperform the base models in predictive survivability.
+
+
 ### [Project 4 - Crime Prevention with Data](https://github.com/yong9lum/SanFrancisco_Crime_Project)
 
 With a crime rate of 64 per one thousand residents, San Francisco has one of the highest crime rates in America compared to other communities of various sizes — from the smallest towns to the very largest cities. One's chance of becoming a victim of either violent or property crime in San Francisco is 1-in-16, & within California alone, more than 99% of the communities have a lower crime rate. A victim of crime may experience different kinds of effects, including physical effects like injuries, psychological effects like anger & Post-Traumatic Stress Disorder (PTSD), & economic effects like paying for medical expenses & time-off from work. The implications of crime go beyond individuals and affect communities as a whole. In San Francisco, property & low-level crimes are aggravating the destruction of the retail market. With rampant theft & lack of security, landmark Mission District stores are closing, while mom-&-pop businesses find it hard to survive when wracked by constant thefts. The high crime rates & lack of security has also resulted in San Francisco being labelled as a non-viable market, discouraging new businesses from setting up due to fear. Against high crime rates, every individual, family, community, and organization is a victim.
