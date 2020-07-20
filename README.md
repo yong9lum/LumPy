@@ -2,9 +2,9 @@
 
 ### [Project 5 - Machine Learning from Disaster](https://github.com/yong9lum/Titanic_Project)
 
-The legendary Titanic machine learning competition on Kaggle is one of the best challenges for someone who is just picking up on predictive programming to practise his skills. In this challenge, I tried to predict whether or not a person on the Titanic back in 1912 was likely to survive the crash, based on the given variables in the dataset, along with new engineered features. I used five machine learning techniques (Logistic Regression, Support Vector Machines, Multilayer Perceptron, Random Forest, Gradient Boosting) to create base models.
+The legendary Titanic machine learning competition on Kaggle is one of the best challenges for someone who is just picking up on predictive programming to practise his skills. In this challenge, I tried to predict whether or not a person on the Titanic back in 1912 was likely to survive the crash, based on the given variables in the dataset, along with new engineered features. I used six machine learning techniques (Logistic Regression, Support Vector Machines, Multilayer Perceptron, Random Forest, Gradient Boosting, XGBoost) to create base models.
 
-As part of my own learning, I further ensembled these five models using XGBoost in an attempt to produce a model with greater accuracy, but found that this model did not outperform the base models in predictive survivability.
+As part of my own learning, I further ensembled these six models using VotingClassifier in an attempt to produce a model with greater accuracy.
 
 
 ### [Project 4 - Crime Prevention with Data](https://github.com/yong9lum/SanFrancisco_Crime_Project)
