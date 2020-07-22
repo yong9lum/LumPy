@@ -4,7 +4,17 @@
 
 The legendary Titanic machine learning competition on Kaggle is one of the best challenges for someone who is just picking up on predictive programming to practise his skills. In this challenge, I tried to predict whether or not a person on the Titanic back in 1912 was likely to survive the crash, based on the given variables in the dataset, along with new engineered features. I used six machine learning techniques (Logistic Regression, Support Vector Machines, Multilayer Perceptron, Random Forest, Gradient Boosting, XGBoost) to create base models.
 
-As part of my own learning, I further ensembled these six models using VotingClassifier in an attempt to produce a model with greater accuracy.
+As part of my own learning, I further ensembled these six models using VotingClassifier in an attempt to produce a model with greater accuracy. I made seven submissions, one for every model I tested. The results are as shows:
+
+1. Logistic Regression: 75.8%
+2. Support Vector Machine: 76.6%
+3. Multilayer Perceptron: 74.2%
+4. Random Forest: 76.8%
+5. Gradient Boosting: 76.6%
+6. XGBoost: 76.3%
+7. Voting Classifier Ensemble: 77.5%
+
+Through this, the ensemble model showed that it can improve predictions from the average, and more feature engineering can possibly be done to try to improve the accuracies for all models.
 
 
 ### [Project 4 - Crime Prevention with Data](https://github.com/yong9lum/SanFrancisco_Crime_Project)
